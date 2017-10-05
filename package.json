@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Hello application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yezen-alnafei/hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yezen-alnafei/hello/issues"
+  },
+  "homepage": "https://github.com/yezen-alnafei/hello#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
