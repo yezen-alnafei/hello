@@ -1,7 +1,7 @@
-const extractor = require('../src/hello.js');
+const helloWorld = require('../src/hello.js');
 
 test('Should return hello', function(){
 
-    expect(extractor()).toEqual('hello');
+    expect(helloWorld()).toEqual('Hello World');
 
 });
